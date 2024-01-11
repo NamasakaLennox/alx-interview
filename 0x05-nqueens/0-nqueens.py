@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 """
-Solving the N-Queens problem
-"""
-#!/usr/bin/python3
-"""
 Solves the n-queens problem
 This is a N*N chess board where N queens are placed in such a way
 that they cannot capture each other
